@@ -1,0 +1,6 @@
+{
+  "name": "ProNetwork",
+  "description": "Professional networking application with real-time messaging and feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
